@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(39, 33, 98, 0.85);
+    margin: 15% 25%;
+    text-align: center;
+}
+
+header {
+    color: white;
+    text-decoration: underline;
+    text-decoration: blue;
+
+}
+
+section,footer{
+    color: slategrey;
+}
+
+.spacing{
+    display: block;
+    width: 100%;
+}
