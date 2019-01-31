@@ -6,16 +6,30 @@ body{
 
 header {
     color: white;
-    text-decoration: underline;
-    text-decoration: blue;
-
 }
 
 section,footer{
     color: slategrey;
 }
+hr{
+    color: slategrey;
+    width: 80%;
+    margin-left: 95px;
+    margin-right: 15px;
+
+}
 
 .spacing{
     display: block;
-    width: 100%;
+    width: 80%;
+    margin-left: 95px;
+    margin-rght: 15px;
+}
+section
+{
+    margin-bottom: 15px;
+}
+
+footer{
+    margin-top: 15px
 }
